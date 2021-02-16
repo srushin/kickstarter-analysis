@@ -10,4 +10,20 @@ The analysis for Louise was comprised of two main components: outcome of campaig
 
 ### Outcome of Campaigns Based on Launch Date
 
+Here we were asked to create a pivot table and line chart representing the outcomes of plays only using the categories, “successful,” “failed,” and “canceled.” This was visualized over the months of the year and not by year. The biggest challenge here was getting the pivot table formatted correctly, however, it didn’t take too long. 
+
+><img width="335" alt="Theater_Outcomes_vs_Launch_Pivot" src="https://user-images.githubusercontent.com/78064648/108111333-65562500-7049-11eb-8c85-5c6ae97095d1.png">
+
+>
+### Outcomes of a Campaign Based on Goals
+
+This analysis was a bit more challenging as it required a new spread sheet and the use of the `COUNTIFS()` function, referencing other spreadsheets within the workbook. Here is a a sample of the code written to fetch the data `=COUNTIFS(Kickstarter!G:G, "successful", Kickstarter!D:D, ">=$1000", Kickstarter!R:R, "plays", Kickstarter!D:D, "<=$4999")` for the “Number Successful” column and the “$1000 to $4999” row. Total projects column data was created using the `=SUM()` function across the corresponding rows and all percentages were calculated using the mathematical formulas and cell formatting. Finalized spreadsheet below.
+
+><img width="1112" alt="Screen Shot 2021-02-16 at 11 31 18 AM" src="https://user-images.githubusercontent.com/78064648/108112668-46f12900-704b-11eb-8a2e-07c88ecb7334.png">
+
+Next, a line chart was created to communicate the data visually. 
+><img width="1113" alt="Outcomes_VS_Goals" src="https://user-images.githubusercontent.com/78064648/108112866-920b3c00-704b-11eb-96c7-2e38a8bac7de.png">
+
+
+
   
