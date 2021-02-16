@@ -25,6 +25,13 @@ This analysis was a bit more challenging as it required a new spread sheet and t
 Next, a line chart was created to communicate the data visually. 
 ><img width="1113" alt="Outcomes_VS_Goals" src="https://user-images.githubusercontent.com/78064648/108113276-2c6b7f80-704c-11eb-84f7-03f4703218e1.png">
 
+### Other Results
+
+The way this was challenge was structured, we failed to gain insight into the true correlation between outcome based on goals and launch date. This was due to the fact that we allowed the launch data to include all Kickstarter campaigns within the “Theater” parent category. This is visualized in the amount of cancelled (albeit small) campaigns in the launch data and the absence of cancelled campaigns in the goals data. It would be more helpful to show a visualization of launch data restricted to plays only (see below graph for plays only data).
+
+> <img width="641" alt="plays_only" src="https://user-images.githubusercontent.com/78064648/108116312-3d1df480-7050-11eb-818b-becd1553b427.png">
+
+We could have also seen some other information about the theatrical subcategories that worked and didn’t work. It may have given greater insight, as well as, the subject of the plays themselves (ie: genres, periods, cast size, etc..). 
 
 
   
