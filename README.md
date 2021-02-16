@@ -14,7 +14,8 @@ Here we were asked to create a pivot table and line chart representing the outco
 
 ><img width="335" alt="Theater_Outcomes_vs_Launch_Pivot" src="https://user-images.githubusercontent.com/78064648/108111333-65562500-7049-11eb-8c85-5c6ae97095d1.png">
 
->
+><img width="631" alt="Theater_Outcomes_vs_Launch" src="https://user-images.githubusercontent.com/78064648/108113098-e57d8a00-704b-11eb-9b8d-f2d5f0b03c40.png">
+
 ### Outcomes of a Campaign Based on Goals
 
 This analysis was a bit more challenging as it required a new spread sheet and the use of the `COUNTIFS()` function, referencing other spreadsheets within the workbook. Here is a a sample of the code written to fetch the data `=COUNTIFS(Kickstarter!G:G, "successful", Kickstarter!D:D, ">=$1000", Kickstarter!R:R, "plays", Kickstarter!D:D, "<=$4999")` for the “Number Successful” column and the “$1000 to $4999” row. Total projects column data was created using the `=SUM()` function across the corresponding rows and all percentages were calculated using the mathematical formulas and cell formatting. Finalized spreadsheet below.
