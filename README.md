@@ -23,7 +23,7 @@ This analysis was a bit more challenging as it required a new spread sheet and t
 ><img width="1112" alt="Screen Shot 2021-02-16 at 11 31 18 AM" src="https://user-images.githubusercontent.com/78064648/108112668-46f12900-704b-11eb-8a2e-07c88ecb7334.png">
 
 Next, a line chart was created to communicate the data visually. 
-><img width="1113" alt="Outcomes_VS_Goals" src="https://user-images.githubusercontent.com/78064648/108112866-920b3c00-704b-11eb-96c7-2e38a8bac7de.png">
+><img width="1113" alt="Outcomes_VS_Goals" src="https://user-images.githubusercontent.com/78064648/108113276-2c6b7f80-704c-11eb-84f7-03f4703218e1.png">
 
 
 
