@@ -31,7 +31,6 @@ The way this was challenge was structured, we failed to gain insight into the tr
 
 > <img width="641" alt="plays_only" src="https://user-images.githubusercontent.com/78064648/108116312-3d1df480-7050-11eb-818b-becd1553b427.png">
 
-We could have also seen some other information about the theatrical subcategories that worked and didn’t work. It may have given greater insight, as well as, the subject of the plays themselves (ie: genres, periods, cast size, etc..). 
-
+We could have also seen some other information about the theatrical subcategories that worked and didn’t work, as well as,the subject of the plays themselves (ie: genres, periods, cast size, etc..). It may have given greater insight as to which were the most successful.
 
   
